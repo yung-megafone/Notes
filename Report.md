@@ -58,12 +58,26 @@
 
 
 ### 2.4 Blood & Trauma Anomalies (Fig. 2.4a–d)  
+- Pre-Shot
+![Figure 2.4 - Pre-Shot](media/2.4.jpg)
 - Shirt flared upward pre-blood (squib-like effect). [^7] [^8] [^9]
 ![Figure 2.4a – Shirt Flare](media/2.4a.jpg)
+![Figure 2.4a – Shirt Flare](media/2.4a1.jpg)
+![Figure 2.4a – Shirt Flare](media/2.4a2.jpg)
+![Figure 2.4a – Shirt Flare](media/2.4a3.jpg)
+
 - Blood flow: hose-like, not arterial.  
-![Figure 2.4b – Blood Volume and Flow](media/2.4b.jpg)
+![Figure 2.4b – Blood Volume and Flow](media/2.4b1.jpg)
+![Figure 2.4b – Blood Volume and Flow](media/2.4b2.jpg)
+![Figure 2.4b – Blood Volume and Flow](media/2.4b3.jpg)
+![Figure 2.4b – Blood Volume and Flow](media/2.4b4.jpg)
+![Figure 2.4b – Blood Volume and Flow](media/2.4b5.jpg)
+![Figure 2.4b – Blood Volume and Flow](media/2.4b6.jpg)
+![Figure 2.4b – Blood Volume and Flow](media/2.4b7.jpg)
+
 - No mist, no backdrop spray, no exit chaos. 
 ![Figure 2.4c – Lack of Mist / Spray](media/2.4c.jpg)
+
 - Victim upright far longer than physiologically possible.
 ![Figure 2.4d – Duration of Event](media/2.4d.jpg)
 
@@ -96,7 +110,7 @@
 ![Figure 3.1b – "Sniper"](media/3.1b.jpg)
 
 - White-hat man brushes cheek  possible identifier. [^x]
-![Figure 3.1c – "Male"](media/3.1b.jpg)
+![Figure 3.1c – "Male"](media/3.1c.jpg)
 
 - Second man notices, hesitates, makes danger-arm gesture. [^x]
 ![Figure 3.1d – "Imminent Danger"](media/3.1d.jpg)
