@@ -77,8 +77,6 @@
 
 - No mist, no backdrop spray, no exit chaos. 
 
-- Victim upright far longer than physiologically possible.
-
 > Visuals appear more consistent with **stage blood effects**.  
 
 
