@@ -48,10 +48,11 @@
 - Suspect seen only with backpack; never with rifle.  
 - Bolt-action with scope (~40+ in.) allegedly found.
 ![Figure 2.3a – Alleged Weapon Used During Assasination](media/2.3a.jpg)
+- Scope improperly mounted.  (see fig. 2.3a)
+
 - Stairwell stills (2.3b-2.3c) show **normal knee flexion** → impossible with barrel concealed. 
 ![Figure 2.3b – Left Leg Bent](media/2.3b.jpg)
 ![Figure 2.3c – Right Leg Bent](media/2.3c.jpg) 
-- Scope improperly mounted.  (see fig. 2.3a)
 
 > The rifle was likely **planted for symbolism**, not used.  
 
