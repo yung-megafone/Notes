@@ -76,10 +76,8 @@
 ![Figure 2.4b – Blood Volume and Flow](media/2.4b7.jpg)
 
 - No mist, no backdrop spray, no exit chaos. 
-![Figure 2.4c – Lack of Mist / Spray](media/2.4c.jpg)
 
 - Victim upright far longer than physiologically possible.
-![Figure 2.4d – Duration of Event](media/2.4d.jpg)
 
 > Visuals appear more consistent with **stage blood effects**.  
 
