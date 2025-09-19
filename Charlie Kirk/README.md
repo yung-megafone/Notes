@@ -107,7 +107,7 @@
   2. **Exited roof in 38 seconds.**
   3. Reassembled weapon in woods before “ditching” it.
 
-* Forensic contradiction: the rifle was recovered with **round still chambered** → this weapon could *not* have been disassembled in that state. [^15]
+* Forensic contradiction: the rifle was recovered with **round still chambered** → this weapon could *not* have been disassembled in that state as it requires removal of the bolt - which ejects the cartridge. [^15] [^16]
 
 * Weight, bulk, and timing constraints make the official version implausible.
 
@@ -128,7 +128,7 @@
 - White-hat man brushes cheek  possible identifier.
 ![Figure 3.1c – "Male"](media/3.1c.jpg)
 
-- Second man notices, hesitates, appears to verify the backdrop is clear, then makes danger-arm gesture. [^15]
+- Second man notices, hesitates, appears to verify the backdrop is clear, then makes danger-arm gesture.
 ![Figure 3.1d – "Imminent Danger"](media/3.1d.jpg)
 
 - Second man then taps arm. (possible execute signal)
@@ -286,3 +286,5 @@ This event aligns with the **state-managed lone gunman playbook** (JFK, RFK, MLK
 [^14]: [Tactical Hand Signals](https://www.scribd.com/document/18406684/Tactical-Hand-Signals)
 
 [^15]: [Mauser K98k/M98 Part 1: Disassembly (YouTube)](https://www.youtube.com/watch?v=YN8Eq2FmYvQ)
+
+[^16]: [Assembly And Disassembly Guide For The Mauser 98k & M48](https://www.brownells.com/gear/books-videos/books/mauser-98k--m48-assembly-and-disassembly-guide/)
