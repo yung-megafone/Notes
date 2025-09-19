@@ -107,7 +107,7 @@
   2. **Exited roof in 38 seconds.**
   3. Reassembled weapon in woods before “ditching” it.
 
-* Forensic contradiction: the rifle was recovered with **round still chambered** → this weapon could *not* have been disassembled in that state as it requires removal of the bolt - which ejects the cartridge. [^15] [^16]
+* Forensic contradiction: the rifle was recovered with **round still chambered** → this weapon could *not* have been disassembled in that state as it requires removal of the bolt - which ejects the cartridge. [^15] [^16] [^17]
 
 * Weight, bulk, and timing constraints make the official version implausible.
 
@@ -288,3 +288,6 @@ This event aligns with the **state-managed lone gunman playbook** (JFK, RFK, MLK
 [^15]: [Mauser K98k/M98 Part 1: Disassembly (YouTube)](https://www.youtube.com/watch?v=YN8Eq2FmYvQ)
 
 [^16]: [Assembly And Disassembly Guide For The Mauser 98k & M48](https://www.brownells.com/gear/books-videos/books/mauser-98k--m48-assembly-and-disassembly-guide/)
+
+
+[^17]: [The Exploded View of the Mauser 98K from the American Rifleman](https://www.youwillshootyoureyeout.com/the-exploded-view-of-the-mauser-98k-from-the-american-rifleman/)
