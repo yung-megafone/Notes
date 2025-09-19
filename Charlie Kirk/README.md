@@ -10,9 +10,11 @@
 
 ### 1.1 Book Anomaly (Fig. 1.1)  
 - Book listed as published **Sept 9, 2025** - one day before the event.[^1]  
-![Figure 1.1 – Assasination Book Pre-Seeding](media/1.1.jpg)
+![Figure 1.1a – Assasination Book Pre-Seeding](media/1.1a.jpg)
+![Figure 1.1b – Assasination Book Pre-Seeding](media/1.1b.jpg)
+![Figure 1.1c – Assasination Book Pre-Seeding](media/1.1c.jpg)
 
-- KDP requires ~72 hrs review → manuscript must have been submitted before Sept 9.[^2]  
+- KDP requires ~72 hrs review, publishing date set as the day Amazon authorizes the publication → manuscript must have been submitted on or before Sept 9.[^2]  
 - At **12:26 PM Sept 10 MDT**, no time zones were still on Sept 9.[^3] 
 - Instead of correction, Amazon/Google **scrubbed the book and companion piece**.  
 
@@ -26,7 +28,7 @@
 
 ### 2.1 Mass Crowd Non-Reaction (Fig. 2.1a)  
 - **Thousands in attendance**; majority remained facing forward.  
-[![Crowd Reaction Video](media/crowd.png)](media/2.1a.mp4)
+![Crowd Reaction Video](media/2.1a.mp4)
 - Minimal flinching; reaction delay ~1-2 seconds after shot.  
 - Real gunfire → *instant chaos* (.3-.5s jerk reaction)[^10] [^11]
 
@@ -66,7 +68,7 @@
 ![Figure 2.4a – Shirt Flare](media/2.4a2.jpg)
 ![Figure 2.4a – Shirt Flare](media/2.4a3.jpg)
 
-- Blood flow: hose-like, not arterial.  
+- Blood flow: hose-like, not an arterial spray.  
 ![Figure 2.4b – Blood Volume and Flow](media/2.4b1.jpg)
 ![Figure 2.4b – Blood Volume and Flow](media/2.4b2.jpg)
 ![Figure 2.4b – Blood Volume and Flow](media/2.4b3.jpg)
@@ -76,6 +78,8 @@
 ![Figure 2.4b – Blood Volume and Flow](media/2.4b7.jpg)
 
 - No mist, no backdrop spray, no exit chaos. 
+
+- Wound size seems too large for an entry, yet too small for an exit - energy transfer would indicate it to be an entry, yet there is no exit
 
 > Visuals appear more consistent with **stage blood effects**.  
 
@@ -93,6 +97,22 @@
 - This may represent the supersonic crack of the bullet, with the muzzle report diminished by acoustics, suppression, or microphone filtering.  
 
 
+### 2.7 Rifle Logistics & Timing (Fig. 2.7a–e)
+
+* Shooter allegedly scaled roof carrying a **full-length bolt-action rifle** (\~40+ in.) - with an attatched scope - unnoticed.
+
+* Fired one shot, then supposedly:
+
+  1. **Dismantled rifle** on rooftop.
+  2. **Exited roof in 38 seconds.**
+  3. Reassembled weapon in woods before “ditching” it.
+
+* Forensic contradiction: the rifle was recovered with **round still chambered** → this weapon could *not* have been disassembled in that state. [^15]
+
+* Weight, bulk, and timing constraints make the official version implausible.
+
+> Strong evidence weapon was **planted as a prop** or moved post-event, not carried and fired by suspect as alleged.
+
 ---
 
 ## 3. Body Language & Crowd Behavior  
@@ -102,19 +122,19 @@
 - Kirk scratches face seconds before.   
 ![Figure 3.1a – Cheek Scratch](media/3.1a.jpg)
 
-- White-hat man touches brim → sniper cue. [^x]
+- White-hat man touches brim → sniper cue [^13] - or "watch", pay attention [^14].
 ![Figure 3.1b – "Sniper"](media/3.1b.jpg)
 
-- White-hat man brushes cheek  possible identifier. [^x]
+- White-hat man brushes cheek  possible identifier.
 ![Figure 3.1c – "Male"](media/3.1c.jpg)
 
-- Second man notices, hesitates, makes danger-arm gesture. [^x]
+- Second man notices, hesitates, appears to verify the backdrop is clear, then makes danger-arm gesture. [^15]
 ![Figure 3.1d – "Imminent Danger"](media/3.1d.jpg)
 
-- Second man taps arm. (possible execute signal)
+- Second man then taps arm. (possible execute signal)
 ![Figure 3.1e – "Execute"](media/3.1e.jpg)
 
-- Shot fired within frames of these actions.  
+- Shot fired within milliseconds - typical reaction time.  
 
 ![Figure 3.1f – Signalling (Slowed)](media/3.1f.mp4)
 
@@ -139,7 +159,7 @@
 ---
 
 ## 4. Witness & Narrative Management  
-**Precedence: 4th | Contribution Score: 9.5/10**  
+**Precedence: 4th | Contribution Score: 10/10**  
 
 ### 4.1 Witness Silence (Fig. 4.1a)  
 - No organic testimony from crowd, medics, or security.  
@@ -170,8 +190,17 @@
 
 - Scene was not preserved for forensic review.
 
-> Consistent with **evidence suppression/scene management**.  
-  
+> Consistent with **evidence suppression/scene management**. 
+
+
+#### 4.4 Media Anomaly – Absence of Livestreams (Fig. 4.4a)
+
+* TPUSA events are routinely livestreamed (official feeds + audience streams).
+* **Sept 10 event:** No verified livestream footage exists; all circulating videos are low-quality **after-the-fact uploads.**
+* Statistically abnormal for 2025, especially given student-heavy audience and TPUSA’s history of streaming AmericaFest, Student Action Summit, etc.
+* Absence prevents open-source verification of timeline and audio-visual continuity.
+
+> Suggests either **technical suppression** (jamming, restrictions) or **deliberate curation** (livestreams existed but scrubbed).
 
 ---
 
@@ -201,15 +230,15 @@
 | Publication & Pre-Seeding        | 10           | High   | Book anomaly = strongest flag.       |  
 | Ballistics & Forensics           | 10           | High   | Contradictions dismantle lone-gunman. |  
 | Body Language & Crowd Behavior   | 9            | Med    | Signals + dispersal inconsistent.    |  
-| Witness & Narrative Management   | 9.5          | Med    | Lockdown + evidence removal/renovation. |  
+| Witness & Narrative Management   | 10          | Med    | Lockdown + evidence removal/renovation. |  
 | Political Context & Motive       | 10           | High   | Distraction value undeniable.        |  
 
 ---
 
 ## 🧮 Composite PsyOp Score  
 - **Initial Read:** 7/10 (early anomalies).  
-- **Updated with crowd + second gunman:** 9.5/10.  
-- **Composite Weighted Average:** ≈ 9.4/10.  
+- **Updated with crowd + second gunman:** 9.6/10.  
+- **Composite Weighted Average:** ≈ 9.6/10.   
 
 ---
 
@@ -252,4 +281,8 @@ This event aligns with the **state-managed lone gunman playbook** (JFK, RFK, MLK
 
 [^12]: [Sources: Kirk investigators: "Aghast" transgender roommate may lead to motive – Axios](https://www.axios.com/2025/09/13/kirk-suspect-transgender-roommate)
 
-[^x]: Source In Progress
+[^13]: [Military Hand Signals – Colemans](https://colemans.com/surplus-guide/post/military-hand-signals)
+
+[^14]: [Tactical Hand Signals](https://www.scribd.com/document/18406684/Tactical-Hand-Signals)
+
+[^15]: [Mauser K98k/M98 Part 1: Disassembly (YouTube)](https://www.youtube.com/watch?v=YN8Eq2FmYvQ)
