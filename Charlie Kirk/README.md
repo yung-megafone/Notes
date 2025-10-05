@@ -586,70 +586,73 @@ _Independent Researcher • Open-Source Intelligence Analyst - The V.E.I.L. Proj
 
 ---
 
-
-## Index of References
-
+# **Index of References**
 
 
-> **Purpose:** To ensure transparency, traceability, and reproducibility of all findings in this report.  
-> Citations are drawn exclusively from open-source, verifiable materials.  
-> Each entry corresponds to its in-text footnote reference (e.g., [^1], [^2]).
+> **Purpose:** Ensure transparency, traceability, and reproducibility of all findings in this report.
+> All citations are open-source and verifiable.
+> Each entry corresponds to in-text references (e.g. `[^1]`, `[^2]`).
 
 ---
 
-### Narrative, Media & Political Context
-[^1]: [The Shooting of Charlie Kirk - Anastasia J. Casey](https://archive.ph/1VLF3#selection-6123.0-6127.17)  
-[^2]: [KDP Publishing Timelines – Amazon](https://kdp.amazon.com/en_US/help/topic/G202173620)  
-[^3]: [Time Zone Map – timeanddate.com](https://www.timeanddate.com/time/map/#!cities=2128)  
-[^4]: [U.S. Senate Roll Call Vote 512 – Motion to Table Schumer Amendment No. 3849](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00512.htm)  
-[^5]: [AP News – Senate Republicans narrowly reject Schumer bid to force release of Epstein files](https://apnews.com/article/1793c4c1c2f74f89b0cab9ecfd0cfcc8)  
-[^12]: [Sources: Kirk investigators: "Aghast" transgender roommate may lead to motive – Axios](https://www.axios.com/2025/09/13/kirk-suspect-transgender-roommate)  
-[^18]: [Who Moved The Camera Right Above Charlie's Head? \| Candace Ep 239](https://www.youtube.com/watch?v=aDlhjfW6hz8)  
-[^28]: [*FM 3-05.301 – Psychological Operations Process Tactics, Techniques, and Procedures* (Department of the Army, August 2007)](https://info.publicintelligence.net/USArmy-PsyOpsTactics.pdf)
+## **Narrative, Media & Political Context**
+
+* [^1]: [*The Shooting of Charlie Kirk* – Anastasia J. Casey](https://archive.ph/1VLF3#selection-6123.0-6127.17)
+* [^2]: [KDP Publishing Timelines – Amazon](https://kdp.amazon.com/en_US/help/topic/G202173620)
+* [^3]: [Time Zone Map – timeanddate.com](https://www.timeanddate.com/time/map/#!cities=2128)
+* [^4]: [U.S. Senate Roll Call Vote 512 – Motion to Table Schumer Amendment No. 3849](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00512.htm)
+* [^5]: [AP News – Senate Republicans narrowly reject Schumer bid to force release of Epstein files](https://apnews.com/article/1793c4c1c2f74f89b0cab9ecfd0cfcc8)
+* [^12]: [Axios – “Kirk investigators: ‘Aghast’ transgender roommate may lead to motive”](https://www.axios.com/2025/09/13/kirk-suspect-transgender-roommate)
+* [^18]: [Candace Owens – *Who Moved The Camera Right Above Charlie's Head?* (Ep. 239)](https://www.youtube.com/watch?v=aDlhjfW6hz8)
 
 ---
 
-### Physics, Engineering & Explosives
-[^19]: [NASA Glenn Research Center – Newton's Third Law of Motion](https://www.grc.nasa.gov/www/k-12/airplane/newton3.html) — explains the equal and opposite reaction principle governing recoil and impulse.  
-[^20]: [*U.S. Army Technical Manual TM 9-1300-214 – Military Explosives* (Department of the Army, 1984)](https://archive.org/details/milmanual-tm-9-1300-214-military-explosives)  
-[^21]: [*TM 5-1300 – Structures to Resist the Effects of Accidental Explosions* (Department of the Army, Navy, and Air Force, 1990)](https://www.nrc.gov/docs/ML0301/ML030140480.pdf)  
-[^27]: [Cooper, P.W. *Explosives Engineering*. Wiley-VCH, 1996](https://archive.org/details/ExplosivesEngineeringPaulW.Cooper.pdf)  
+## **Physics, Engineering & Explosives**
+
+* [^19]: [NASA Glenn Research Center – *Newton's Third Law of Motion*](https://www.grc.nasa.gov/www/k-12/airplane/newton3.html)
+* [^20]: [TM 9-1300-214 – *Military Explosives* (U.S. Army, 1984)](https://archive.org/details/milmanual-tm-9-1300-214-military-explosives)
+* [^21]: [TM 5-1300 – *Structures to Resist the Effects of Accidental Explosions* (DoD, 1990)](https://www.nrc.gov/docs/ML0301/ML030140480.pdf)
+* [^27]: [Cooper, P.W. – *Explosives Engineering* (Wiley-VCH, 1996)](https://archive.org/details/ExplosivesEngineeringPaulW.Cooper.pdf)
+* [^28]: [FM 3-05.301 – *Psychological Operations Process TTP* (U.S. Army, 2007)](https://irp.fas.org/doddir/army/fm3-05-301.pdf)
 
 ---
 
-### Forensics, Ballistics & Weaponry
-[^6]: [The effect of military clothing on gunshot wounding (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6570663/)  
-[^7]: [Clothing increases the risk of indirect ballistic fractures (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4222043/)  
-[^15]: [Mauser K98k/M98 Part 1: Disassembly (YouTube)](https://www.youtube.com/watch?v=YN8Eq2FmYvQ)  
-[^16]: [Assembly And Disassembly Guide For The Mauser 98k & M48](https://www.brownells.com/gear/books-videos/books/mauser-98k--m48-assembly-and-disassembly-guide/)  
-[^17]: [The Exploded View of the Mauser 98K from the American Rifleman](https://www.youwillshootyoureyeout.com/the-exploded-view-of-the-mauser-98k-from-the-american-rifleman/)  
+## **Forensics, Ballistics & Weaponry**
+
+* [^6]: [The effect of military clothing on gunshot wounding (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6570663/)
+* [^7]: [Clothing increases the risk of indirect ballistic fractures (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4222043/)
+* [^15]: [Mauser K98k/M98 Part 1: Disassembly (YouTube)](https://www.youtube.com/watch?v=YN8Eq2FmYvQ)
+* [^16]: [Assembly and Disassembly Guide for the Mauser 98k & M48 – Brownells](https://www.brownells.com/gear/books-videos/books/mauser-98k--m48-assembly-and-disassembly-guide/)
+* [^17]: [Exploded View of the Mauser 98K – *American Rifleman*](https://www.youwillshootyoureyeout.com/the-exploded-view-of-the-mauser-98k-from-the-american-rifleman/)
 
 ---
 
-### Medical & Physiological References
-[^22]: [*American Spinal Injury Association* – “Acute Management of Spinal Cord Injury” (2022)](https://asia-spinalinjury.org/)  
-[^23]: [*NIH Bookshelf* – “Acute Cervical Spinal Cord Injury Outcomes”](https://www.ncbi.nlm.nih.gov/books/NBK441882/)  
-[^24]: [*StatPearls* – “Neck Trauma”](https://www.ncbi.nlm.nih.gov/books/NBK470390/)  
-[^25]: [*Journal of Trauma* – “Mortality from Penetrating Neck Trauma”](https://journals.lww.com/jtrauma/Abstract/2000/01000/Mortality_from_Penetrating_Neck_Trauma__A.10.aspx)  
-[^26]: [*Cleveland Clinic* – “Decerebrate Posturing”](https://my.clevelandclinic.org/health/symptoms/22625-decerebrate-posturing)  
+## **Medical & Physiological References**
+
+* [^22]: [American Spinal Injury Association – *Acute Management of Spinal Cord Injury* (2022)](https://asia-spinalinjury.org/)
+* [^23]: [NIH Bookshelf – *Acute Cervical Spinal Cord Injury Outcomes*](https://www.ncbi.nlm.nih.gov/books/NBK441882/)
+* [^24]: [StatPearls – *Neck Trauma*](https://www.ncbi.nlm.nih.gov/books/NBK470390/)
+* [^25]: [Journal of Trauma – *Mortality from Penetrating Neck Trauma*](https://journals.lww.com/jtrauma/Abstract/2000/01000/Mortality_from_Penetrating_Neck_Trauma__A.10.aspx)
+* [^26]: [Cleveland Clinic – *Decerebrate Posturing*](https://my.clevelandclinic.org/health/symptoms/22625-decerebrate-posturing)
 
 ---
 
-### Theatrical Effects & Startle Response Studies
-[^8]: [Air-Powered Blood Squibs – No Film School](https://nofilmschool.com/2017/06/watch-learn-how-make-air-powered-blood-squibs-gunshot-effects)  
-[^9]: [Theatrical Blood Effects – MilitaryMoulage.com](https://www.healthysimulation.com/theatrical-blood-effects-part-4-from-militarymoulage-com/)  
-[^10]: [Startle Response Latency – ScienceDirect](https://www.sciencedirect.com/topics/neuroscience/startle-response)  
-[^11]: [Prepulse Inhibition of the Auditory Startle Reflex – MDPI](https://www.mdpi.com/2076-3425/10/9/639)  
+## **Theatrical Effects & Startle Response**
+
+* [^8]: [No Film School – *Air-Powered Blood Squibs*](https://nofilmschool.com/2017/06/watch-learn-how-make-air-powered-blood-squibs-gunshot-effects)
+* [^9]: [MilitaryMoulage.com – *Theatrical Blood Effects*](https://www.healthysimulation.com/theatrical-blood-effects-part-4-from-militarymoulage-com/)
+* [^10]: [ScienceDirect – *Startle Response Latency*](https://www.sciencedirect.com/topics/neuroscience/startle-response)
+* [^11]: [MDPI – *Prepulse Inhibition of the Auditory Startle Reflex*](https://www.mdpi.com/2076-3425/10/9/639)
 
 ---
 
-### Tactical Cues & Signaling
-[^13]: [Military Hand Signals – Colemans](https://colemans.com/surplus-guide/post/military-hand-signals)  
-[^14]: [Tactical Hand Signals](https://www.scribd.com/document/18406684/Tactical-Hand-Signals)  
+## **Tactical Cues & Signaling**
+
+* [^13]: [Colemans – *Military Hand Signals*](https://colemans.com/surplus-guide/post/military-hand-signals)
+* [^14]: [Tactical Hand Signals – Scribd](https://www.scribd.com/document/18406684/Tactical-Hand-Signals)
 
 ---
 
-### Pending Verification
-[^x]: Source in progress – pending confirmation via FBI filings or media record.  
+## **Pending Verification**
 
----
+* [^x]: Source in progress – pending confirmation via FBI filings or contemporaneous media record.
