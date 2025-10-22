@@ -156,8 +156,8 @@ If the objective of democracy is self-government, then the prerequisite is self-
 
 <a id="guncontrol-ref24">24.</a> [Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). *Bad Is Stronger Than Good.* Review of General Psychology, 5(4), 323-370.](https://doi.org/10.1037/1089-2680.5.4.323)
 
-<a id="guncontrol-ref25">25.</a> [Herman, E. S., & Chomsky, N. (1988). *Manufacturing Consent: The Political Economy of the Mass Media.* Pantheon Books.]()
+<a id="guncontrol-ref25">25.</a> [Herman, E. S., & Chomsky, N. (1988). *Manufacturing Consent: The Political Economy of the Mass Media.* Pantheon Books.](https://files.libcom.org/files/2022-04/manufacturing_consent.pdf)
 
-<a id="guncontrol-ref26">26.</a> [Cialdini, R. B. (1984). *Influence: The Psychology of Persuasion.* Harper Collins.]()
+<a id="guncontrol-ref26">26.</a> [Cialdini, R. B. (1984). *Influence: The Psychology of Persuasion.* Harper Collins.](https://ia800203.us.archive.org/33/items/ThePsychologyOfPersuasion/The%20Psychology%20of%20Persuasion.pdf)
 
-<a id="guncontrol-ref27">27.</a> [Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux.]()
+<a id="guncontrol-ref27">27.</a> [Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux.](https://dn790002.ca.archive.org/0/items/DanielKahnemanThinkingFastAndSlow/Daniel%20Kahneman-Thinking%2C%20Fast%20and%20Slow%20%20.pdf)
