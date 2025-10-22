@@ -128,8 +128,7 @@ If the objective of democracy is self-government, then the prerequisite is self-
 
 <a id="guncontrol-ref10">10.</a> [FBI Crime Data Explorer – 2023 Crime Trends](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend)  
 
-<a id="guncontrol-ref11">11.</a> [Kleck, G. (2017). *Point Blank: Guns and Violence in America*.Transaction Publishers.](https://www.taylorfrancis.com/books/mono/10.4324/9781315126517/
-point-blank-gary-kleck)
+<a id="guncontrol-ref11">11.</a> [Kleck, G. (2017). *Point Blank: Guns and Violence in America*.Transaction Publishers.](https://www.taylorfrancis.com/books/mono/10.4324/9781315126517/point-blank-gary-kleck)
 
 <a id="guncontrol-ref12">12.</a> [Shirk, D. & Schulman, P. (2022). *Media Coverage of Violence: Agenda Setting and Fear*. Journal of Communication Studies.](https://www.researchgate.net/publication/329638328_Agenda-Setting)
 
