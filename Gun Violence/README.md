@@ -2,7 +2,7 @@
 ## 20251022 0130z
 ### Prepared by: 
 **yung-megafone**  
-_Independent Researcher • The V.E.I.L. Project_   
+_Independent Researcher_   
 
 | Category | Data (2023) | Source |
 |-----------|-------------|--------|
