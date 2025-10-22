@@ -109,29 +109,56 @@ If the objective of democracy is self-government, then the prerequisite is self-
 ## References
 
 <a id="guncontrol-ref1">1.</a> [CDC FastStats – Firearm Injury and Death](https://www.cdc.gov/firearm-violence/data-research/facts-stats/index.html)  
+
 <a id="guncontrol-ref2">2.</a> [CDC – FastStats: Suicide and Self-Inflicted Injury](https://www.cdc.gov/nchs/fastats/suicide.htm)  
+
 <a id="guncontrol-ref3">3.</a> [FBI UCR – Expanded Homicide Data Table 8](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-8.xls)  
+
 <a id="guncontrol-ref4">4.</a> [Pew Research Center – What the data says about gun deaths in the U.S.](https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/)  
+
 <a id="guncontrol-ref5">5.</a> [CDC Vital Statistics – Leading Causes of Death](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)  
+
 <a id="guncontrol-ref6">6.</a> [Tversky & Kahneman, *Judgment under Uncertainty: Heuristics and Biases* (1974).](https://sites.socsci.uci.edu/~bskyrms/bio/readings/tversky_k_heuristics_biases.pdf)
+
 <a id="guncontrol-ref7">7.</a> [National Firearms Act of 1934, Pub. L. 73–474](https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg1236.pdf)  
+
 <a id="guncontrol-ref8">8.</a> [Gun Control Act of 1968, Pub. L. 90–618](https://uscode.house.gov/view.xhtml?path=/prelim@title18/part1/chapter44&edition=prelim)  
+
 <a id="guncontrol-ref9">9.</a> [Brady Handgun Violence Prevention Act (1993)](https://www.congress.gov/bill/103rd-congress/house-bill/1025)  
+
 <a id="guncontrol-ref10">10.</a> [FBI Crime Data Explorer – 2023 Crime Trends](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend)  
-<a id="guncontrol-ref11">11.</a> [Kleck, G. (2017). *Point Blank: Guns and Violence in America*. Transaction Publishers.](https://www.taylorfrancis.com/books/mono/10.4324/9781315126517/point-blank-gary-kleck)
+
+<a id="guncontrol-ref11">11.</a> [Kleck, G. (2017). *Point Blank: Guns and Violence in America*.Transaction Publishers.](https://www.taylorfrancis.com/books/mono/10.4324/9781315126517/
+point-blank-gary-kleck)
+
 <a id="guncontrol-ref12">12.</a> [Shirk, D. & Schulman, P. (2022). *Media Coverage of Violence: Agenda Setting and Fear*. Journal of Communication Studies.](https://www.researchgate.net/publication/329638328_Agenda-Setting)
+
 <a id="guncontrol-ref13">13.</a> [Goffman, E. (1974). *Frame Analysis*. Harvard University Press.](http://thowe.pbworks.com/w/file/fetch/51478347/Goffman.Frame.Analysis.pdf) 
+
 <a id="guncontrol-ref14">14.</a> [Vosoughi S. et al. (2018). “The spread of true and false news online.” *Science*, 359(6380).](https://www.science.org/doi/10.1126/science.aap95590)
+
 <a id="guncontrol-ref15">15.</a> [Everytown Research – City Data on Gun Homicide](https://everytownresearch.org/report/city-data/)  
+
 <a id="guncontrol-ref16">16.</a> [Cramer, C. E. (2006). Armed America: The Remarkable Story of How and Why Guns Became as American as Apple Pie.](https://archive.org/details/armedamericarema0000cram_w1y4) 
+
 <a id="guncontrol-ref17">17.</a> [Hofstadter, R. (1970). *America as a Gun Culture*. American Heritage.](https://www.americanheritage.com/america-gun-culture)
+
 <a id="guncontrol-ref18">18.</a> [Carlson, J. (2015). *Citizen-Protectors: The Everyday Politics of Guns in an Age of Decline*. Oxford University Press.](https://global.oup.com/academic/product/citizen-protectors-9780190902148?cc=us&lang=en&)
+
 <a id="guncontrol-ref19">19.</a> [Kahan, D. M. (2013). Ideology, Motivated Reasoning, and Cognitive Reflection. Judgment and Decision Making, 8(4), 407-424.](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/ideology-motivated-reasoning-and-cognitive-reflection/F8A6A74C9022363D672B0FD14DD8B89F)
+
 <a id="guncontrol-ref20">20.</a> [Kovach, B. & Rosenstiel, T. (2014). *The Elements of Journalism*. Crown.](https://archive.org/details/elementsofjourna0000kova_k4w6)
+
 <a id="guncontrol-ref21">21.</a> [RAND Corporation – The Science of Gun Policy (2020 update)](https://www.rand.org/research/gun-policy.html)  
+
 <a id="guncontrol-ref22">22.</a> [Pew Research Center. (2023, June 28). Americans’ views of specific gun policy proposals.](https://www.pewresearch.org/politics/2023/06/28/americans-views-of-specific-gun-policy-proposals/)
+
 <a id="guncontrol-ref23">23.</a> [Mill, J. S. (1859). *On Liberty*. John W. Parker and Son.](https://eet.pixel-online.org/files/etranslation/original/Mill,%20On%20Liberty.pdf)
+
 <a id="guncontrol-ref24">24.</a> [Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). *Bad Is Stronger Than Good.* Review of General Psychology, 5(4), 323-370.](https://doi.org/10.1037/1089-2680.5.4.323)
+
 <a id="guncontrol-ref25">25.</a> [Herman, E. S., & Chomsky, N. (1988). *Manufacturing Consent: The Political Economy of the Mass Media.* Pantheon Books.]()
+
 <a id="guncontrol-ref26">26.</a> [Cialdini, R. B. (1984). *Influence: The Psychology of Persuasion.* Harper Collins.]()
+
 <a id="guncontrol-ref27">27.</a> [Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux.]()
