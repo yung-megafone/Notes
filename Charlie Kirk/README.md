@@ -2,7 +2,7 @@
 ## 20251004 0507z
 ### Prepared by: 
 **yung-megafone**  
-_Independent Researcher • Open-Source Intelligence Analyst - The V.E.I.L. Project_   
+_Independent Researcher • The V.E.I.L. Project_   
 
 ---
 
@@ -572,7 +572,7 @@ Classify the incident as a **staged spectacle / PsyOp** with **nested narrative 
 
 Prepared and Authenticated by:  
 **yung-megafone**  
-_Independent Researcher • Open-Source Intelligence Analyst - The V.E.I.L. Project_  
+_Independent Researcher • The V.E.I.L. Project_  
 
  **Date:** 2025-10-04  
  **Revision:** v1.0 -- Initial Comprehensive Draft  
@@ -599,7 +599,7 @@ _Independent Researcher • Open-Source Intelligence Analyst - The V.E.I.L. Proj
 [^4]: [U.S. Senate Roll Call Vote 512 – Motion to Table Schumer Amendment No. 3849](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00512.htm)  
 [^5]: [AP News – Senate Republicans narrowly reject Schumer bid to force release of Epstein files](https://apnews.com/article/1793c4c1c2f74f89b0cab9ecfd0cfcc8)  
 [^12]: [Sources: Kirk investigators: "Aghast" transgender roommate may lead to motive – Axios](https://www.axios.com/2025/09/13/kirk-suspect-transgender-roommate)  
-[^18]: [Who Moved The Camera Right Above Charlie's Head? \| Candace Ep 239](https://www.youtube.com/watch?v=aDlhjfW6hz8)  
+[^18]: [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](https://www.youtube.com/watch?v=aDlhjfW6hz8)  
 [^28]: [*FM 3-05.301 – Psychological Operations Process Tactics, Techniques, and Procedures* (Department of the Army, August 2007)](https://info.publicintelligence.net/USArmy-PsyOpsTactics.pdf)
 [^19]: [NASA Glenn Research Center – Newton's Third Law of Motion](https://www.grc.nasa.gov/www/k-12/airplane/newton3.html) — explains the equal and opposite reaction principle governing recoil and impulse.  
 [^20]: [*U.S. Army Technical Manual TM 9-1300-214 – Military Explosives* (Department of the Army, 1984)](https://archive.org/details/milmanual-tm-9-1300-214-military-explosives)  
