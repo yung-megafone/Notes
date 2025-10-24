@@ -369,43 +369,83 @@ The republic does not need to be reborn, it needs to be remembered. And when Ame
 ---
 
 ## References
-[^1]; Downs, A. (1957). *An Economic Theory of Democracy.* [https://doi.org/10.2307/1951735](https://doi.org/10.2307/1951735)                                                                                                                                                                 
-[^2]; Duverger, M. (1954). *Political Parties.* [https://archive.org/details/politicalparties00duve](https://archive.org/details/politicalparties00duve)                                                                                                                                      
-[^3]; McChesney, R. W. (2015). *Rich Media, Poor Democracy.* [Publisher: The New Press](https://thenewpress.com/books/rich-media-poor-democracy)                                                                                                                                              
-[^4]; Putnam, R. D. (2000). *Bowling Alone.* [https://doi.org/10.1145/358916.361990](https://doi.org/10.1145/358916.361990)                                                                                                                                                                   
-[^5]; Amy, D. J. (2002). *Real Choices/New Voices.* [https://cup.columbia.edu/book/real-choicesnew-voices/9780231124527](https://cup.columbia.edu/book/real-choicesnew-voices/9780231124527)                                                                                                  
-[^6]; Edelman Trust Barometer (2024). [https://www.edelman.com/trust-barometer](https://www.edelman.com/trust-barometer)                                                                                                                                                                      
-[^7]; Haidt, J. (2012). *The Righteous Mind.* [https://global.oup.com/academic/product/the-righteous-mind-9780141039169](https://global.oup.com/academic/product/the-righteous-mind-9780141039169)                                                                                            
-[^8]; Moscovici, S., & Zavalloni, M. (1969). *Group as Polarizer.* [https://doi.org/10.1037/h0027568](https://doi.org/10.1037/h0027568)                                                                                                                                                       
-[^9]; Walter, B. (2022). *How Civil Wars Start.* [https://www.penguinrandomhouse.com/books/676610/how-civil-wars-start-by-barbara-f-walter/](https://www.penguinrandomhouse.com/books/676610/how-civil-wars-start-by-barbara-f-walter/)                                                       
-[^10]: Vosoughi, S., Roy, D., & Aral, S. (2018). *Science, 359*(6380). [https://doi.org/10.1126/science.aap9559](https://doi.org/10.1126/science.aap9559)                                                                                                                                      
-[^11]: Cicero, M. T. (43 BCE). *Philippics VIII.* [Loeb Classical Library Translation](https://www.loebclassics.com/view/marcus_tullius_cicero-philippics/1926/pb_LCL507.3.xml)                                                                                                                
-[^12]; Evans, R. J. (2004). *The Coming of the Third Reich.* [https://doi.org/10.1017/S0008938900008127](https://doi.org/10.1017/S0008938900008127)                                                                                                                                            
-[^13]; OpenSecrets Lobbying Database (2025). [https://www.opensecrets.org/federal-lobbying](https://www.opensecrets.org/federal-lobbying)                                                                                                                                                      
-[^14]; Lessig, L. (2011). *Republic, Lost.* [https://republic.lessig.org/](https://republic.lessig.org/)                                                                                                                                                                                       
-[^15]; Pariser, E. (2011). *The Filter Bubble.* [https://www.penguinrandomhouse.com/books/307180/the-filter-bubble-by-eli-pariser/](https://www.penguinrandomhouse.com/books/307180/the-filter-bubble-by-eli-pariser/)                                                                         
-[^16]; Tufekci, Z. (2017). *Twitter and Tear Gas.* [https://doi.org/10.12987/yale/9780300215120.001.0001](https://doi.org/10.12987/yale/9780300215120.001.0001)                                                                                                                                
-[^17]; Zuboff, S. (2019). *The Age of Surveillance Capitalism.* [https://doi.org/10.2307/j.ctvjnrw3f](https://doi.org/10.2307/j.ctvjnrw3f)                                                                                                                                                     
-[^18]; Rid, T. (2020). *Active Measures.* [https://us.macmillan.com/books/9780374287269/activemeasures](https://us.macmillan.com/books/9780374287269/activemeasures)                                                                                                                           
-[^19]; Lanier, J. (2018). *Ten Arguments for Deleting Your Social Media Accounts Right Now.* [https://us.macmillan.com/books/9781250196682](https://us.macmillan.com/books/9781250196682)                                                                                                      
-[^20]; U.S. House Judiciary Hearing (2023). [https://www.congress.gov/event/118th-congress/house-event/115611](https://www.congress.gov/event/118th-congress/house-event/115611)                                                                                                               
-[^21]; *Missouri v. Biden,* 80 F.4th 641 (5th Cir. 2023). [https://casetext.com/case/missouri-v-biden-3](https://casetext.com/case/missouri-v-biden-3)                                                                                                                                         
-[^22]; McNeil, M. (2022). *Social Media + Society, 8*(4). [https://doi.org/10.1177/20563051221134382](https://doi.org/10.1177/20563051221134382)                                                                                                                                               
-[^23]; Pew Research Center (2021). *Americans and “Cancel Culture.”* [https://www.pewresearch.org/politics/2021/05/19/americans-and-cancel-culture/](https://www.pewresearch.org/politics/2021/05/19/americans-and-cancel-culture/)                                                            
-[^24]; U.S. Department of the Army. (2007). *FM 3-05.301 (Psychological Operations Process Tactics, Techniques, and Procedures).* [https://irp.fas.org/doddir/army/fm3-05-301.pdf](https://irp.fas.org/doddir/army/fm3-05-301.pdf)                                                             
-[^25]; Horwitz, J., & Seetharaman, D. (2021). *Facebook Knows Its Algorithms Fuel Divisiveness.* *Wall Street Journal.* [https://www.wsj.com/articles/facebook-algorithms-divisiveness-11631654215](https://www.wsj.com/articles/facebook-algorithms-divisiveness-11631654215)                 
-[^26]; Kavanagh, J., & Rich, M. D. (2018). *Truth Decay.* RAND Corporation. [https://doi.org/10.7249/RR2314](https://doi.org/10.7249/RR2314)                                                                                                                                                   
-[^27]; Kahneman, D., & Tversky, A. (1979). *Prospect Theory: An Analysis of Decision under Risk.* *Econometrica, 47*(2), 263–291. [https://doi.org/10.2307/1914185](https://doi.org/10.2307/1914185)                                                                                           
-[^28]; Kunda, Z. (1990). *The Case for Motivated Reasoning.* *Psychological Bulletin, 108*(3), 480–498. [https://doi.org/10.1037/0033-2909.108.3.480](https://doi.org/10.1037/0033-2909.108.3.480)                                                                                             
-[^29]; Center for Responsive Politics. (2023). *Cost of Winning a Congressional Seat, 1974–2022.* [https://www.opensecrets.org/elections-overview/cost-of-election](https://www.opensecrets.org/elections-overview/cost-of-election)                                                           
-[^30]; *Citizens United v. FEC,* 558 U.S. 310 (2010). [https://supreme.justia.com/cases/federal/us/558/310/](https://supreme.justia.com/cases/federal/us/558/310/)                                                                                                                             
-[^31]; Postman, N. (1985). *Amusing Ourselves to Death.* [https://archive.org/details/amusingourselvest00post](https://archive.org/details/amusingourselvest00post)                                                                                                                            
-[^32]; Fletcher, R., et al. (2020). *Measuring the Emotional Tone of Online News.* *Reuters Institute.* [https://reutersinstitute.politics.ox.ac.uk/measuring-emotional-tone-online-news](https://reutersinstitute.politics.ox.ac.uk/measuring-emotional-tone-online-news)                     
-[^33]; Winseck, D. (2017). *Media Ownership and Concentration in America.* [https://global.oup.com/academic/product/media-ownership-and-concentration-in-america-9780199987243](https://global.oup.com/academic/product/media-ownership-and-concentration-in-america-9780199987243)            
-[^34]; Seligman, M. E. P. (1975). *Helplessness: On Depression, Development, and Death.* [https://doi.org/10.1037/h0076902](https://doi.org/10.1037/h0076902)                                                                                                                                  
-[^35]; Iyengar, S., & Westwood, S. J. (2015). *Fear and Loathing Across Party Lines.* *American Journal of Political Science, 59*(3), 690–707. [https://doi.org/10.1111/ajps.12152](https://doi.org/10.1111/ajps.12152)                                                                        
-[^36]; Donovan, T., & Bowler, S. (2019). *Perceptions of Fairness and Support for Ranked Choice Voting.* *Electoral Studies, 64*, 102109. [https://doi.org/10.1016/j.electstud.2019.102109](https://doi.org/10.1016/j.electstud.2019.102109)                                                   
-[^37]; Martens, B., & Suoranta, J. (2019). *Media Literacy Education in Finland: Enhancing Critical Thinking in the Digital Age.* *Nordic Journal of Digital Literacy, 14*(1), 3–19. [https://doi.org/10.18261/ISSN.1891-943X-2019-01-02](https://doi.org/10.18261/ISSN.1891-943X-2019-01-02)  
-[^38]; Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A., & Van Bavel, J. J. (2017). *Emotion Shapes the Diffusion of Moralized Content in Social Networks.* *PNAS, 114*(28), 7313–7318. [https://doi.org/10.1073/pnas.1618923114](https://doi.org/10.1073/pnas.1618923114)               
-[^39]: Goleman, D. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ.* [https://archive.org/details/emotionalintelli00gole](https://archive.org/details/emotionalintelli00gole)                                                                                                  
-[^40]: Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain.* [https://lisafeldmanbarrett.com/books/how-emotions-are-made/](https://lisafeldmanbarrett.com/books/how-emotions-are-made/)                                                                                
+
+[^1]: [Downs, A. (1957). *An Economic Theory of Democracy.*](https://doi.org/10.2307/1951735)
+
+[^2]: [Duverger, M. (1954). *Political Parties: Their Organization and Activity in the Modern State.*](https://archive.org/details/politicalparties00duve)
+
+[^3]: [McChesney, R. W. (2015). *Rich Media, Poor Democracy: Communication Politics in Dubious Times.*](https://thenewpress.com/books/rich-media-poor-democracy)
+
+[^4]: [Putnam, R. D. (2000). *Bowling Alone: The Collapse and Revival of American Community.*](https://doi.org/10.1145/358916.361990)
+
+[^5]: [Amy, D. J. (2002). *Real Choices/New Voices: How Proportional Representation Elections Could Revitalize American Democracy.*](https://cup.columbia.edu/book/real-choicesnew-voices/9780231124527)
+
+[^6]: [Edelman Trust Barometer (2024). *Global Report: Decline of Social Trust.*](https://www.edelman.com/trust-barometer)
+
+[^7]: [Haidt, J. (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion.*](https://global.oup.com/academic/product/the-righteous-mind-9780141039169)
+
+[^8]: [Moscovici, S., & Zavalloni, M. (1969). *The Group as a Polarizer of Attitudes.* *Journal of Personality and Social Psychology, 12*(2), 125–135.](https://doi.org/10.1037/h0027568)
+
+[^9]: [Walter, B. F. (2022). *How Civil Wars Start—and How to Stop Them.*](https://www.penguinrandomhouse.com/books/676610/how-civil-wars-start-by-barbara-f-walter/)
+
+[^10]: [Vosoughi, S., Roy, D., & Aral, S. (2018). *The Spread of True and False News Online.* *Science, 359*(6380), 1146–1151.](https://doi.org/10.1126/science.aap9559)
+
+[^11]: [Cicero, M. T. (43 BCE). *Philippics VIII.* Loeb Classical Library Translation.](https://www.loebclassics.com/view/marcus_tullius_cicero-philippics/1926/pb_LCL507.3.xml)
+
+[^12]: [Evans, R. J. (2004). *The Coming of the Third Reich.*](https://doi.org/10.1017/S0008938900008127)
+
+[^13]: [Center for Responsive Politics. (2025). *Lobbying Database Report.*](https://www.opensecrets.org/federal-lobbying)
+
+[^14]: [Lessig, L. (2011). *Republic, Lost: How Money Corrupts Congress—and a Plan to Stop It.*](https://republic.lessig.org/)
+
+[^15]: [Pariser, E. (2011). *The Filter Bubble: What the Internet Is Hiding from You.*](https://www.penguinrandomhouse.com/books/307180/the-filter-bubble-by-eli-pariser/)
+
+[^16]: [Tufekci, Z. (2017). *Twitter and Tear Gas: The Power and Fragility of Networked Protest.*](https://doi.org/10.12987/yale/9780300215120.001.0001)
+
+[^17]: [Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.*](https://doi.org/10.2307/j.ctvjnrw3f)
+
+[^18]: [Rid, T. (2020). *Active Measures: The Secret History of Disinformation and Political Warfare.*](https://us.macmillan.com/books/9780374287269/activemeasures)
+
+[^19]: [Lanier, J. (2018). *Ten Arguments for Deleting Your Social Media Accounts Right Now.*](https://us.macmillan.com/books/9781250196682)
+
+[^20]: [U.S. House Committee on the Judiciary. (2023). *The Weaponization of the Federal Government: Testimony of Meta and Alphabet Executives.*](https://www.congress.gov/event/118th-congress/house-event/115611)
+
+[^21]: [*Missouri v. Biden,* 80 F.4th 641 (5th Cir. 2023).](https://casetext.com/case/missouri-v-biden-3)
+
+[^22]: [McNeil, M. (2022). *Euphemisms in the Age of Algorithmic Moderation.* *Social Media + Society, 8*(4), 1–12.](https://doi.org/10.1177/20563051221134382)
+
+[^23]: [Pew Research Center (2021). *Americans and “Cancel Culture.”*](https://www.pewresearch.org/politics/2021/05/19/americans-and-cancel-culture/)
+
+[^24]: [U.S. Department of the Army (2007). *FM 3-05.301 – Psychological Operations Process Tactics, Techniques, and Procedures.*](https://irp.fas.org/doddir/army/fm3-05-301.pdf)
+
+[^25]: [Horwitz, J., & Seetharaman, D. (2021, Sept 13). *Facebook Knows Its Algorithms Fuel Divisiveness.* *Wall Street Journal.*](https://www.wsj.com/articles/facebook-algorithms-divisiveness-11631654215)
+
+[^26]: [Kavanagh, J., & Rich, M. D. (2018). *Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life.* RAND Corporation.](https://doi.org/10.7249/RR2314)
+
+[^27]: [Kahneman, D., & Tversky, A. (1979). *Prospect Theory: An Analysis of Decision under Risk.* *Econometrica, 47*(2), 263–291.](https://doi.org/10.2307/1914185)
+
+[^28]: [Kunda, Z. (1990). *The Case for Motivated Reasoning.* *Psychological Bulletin, 108*(3), 480–498.*](https://doi.org/10.1037/0033-2909.108.3.480)
+
+[^29]: [Center for Responsive Politics (2023). *Cost of Winning a Congressional Seat, 1974–2022.*](https://www.opensecrets.org/elections-overview/cost-of-election)
+
+[^30]: [*Citizens United v. Federal Election Commission,* 558 U.S. 310 (2010).](https://supreme.justia.com/cases/federal/us/558/310/)
+
+[^31]: [Postman, N. (1985). *Amusing Ourselves to Death: Public Discourse in the Age of Show Business.*](https://archive.org/details/amusingourselvest00post)
+
+[^32]: [Fletcher, R., et al. (2020). *Measuring the Emotional Tone of Online News.* Reuters Institute for the Study of Journalism, University of Oxford.](https://reutersinstitute.politics.ox.ac.uk/measuring-emotional-tone-online-news)
+
+[^33]: [Winseck, D. (2017). *Media Ownership and Concentration in America.*](https://global.oup.com/academic/product/media-ownership-and-concentration-in-america-9780199987243)
+
+[^34]: [Seligman, M. E. P. (1975). *Helplessness: On Depression, Development, and Death.*](https://doi.org/10.1037/h0076902)
+
+[^35]: [Iyengar, S., & Westwood, S. J. (2015). *Fear and Loathing Across Party Lines: New Evidence on Group Polarization.* *American Journal of Political Science, 59*(3), 690–707.*](https://doi.org/10.1111/ajps.12152)
+
+[^36]: [Donovan, T., & Bowler, S. (2019). *Perceptions of Fairness and Support for Ranked Choice Voting.* *Electoral Studies, 64*, 102109.*](https://doi.org/10.1016/j.electstud.2019.102109)
+
+[^37]: [Martens, B., & Suoranta, J. (2019). *Media Literacy Education in Finland: Enhancing Critical Thinking in the Digital Age.* *Nordic Journal of Digital Literacy, 14*(1), 3–19.*](https://doi.org/10.18261/ISSN.1891-943X-2019-01-02)
+
+[^38]: [Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A., & Van Bavel, J. J. (2017). *Emotion Shapes the Diffusion of Moralized Content in Social Networks.* *PNAS, 114*(28), 7313–7318.*](https://doi.org/10.1073/pnas.1618923114)
+
+[^39]: [Goleman, D. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ.*](https://archive.org/details/emotionalintelli00gole)
+
+[^40]: [Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain.*](https://lisafeldmanbarrett.com/books/how-emotions-are-made/)
