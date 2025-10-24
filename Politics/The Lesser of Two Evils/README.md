@@ -1,7 +1,7 @@
 ---
 title: "The Lesser of Two Evils: How Strategic Voting Sustains America’s Political Divide"
 author:
- - name: "Branden Anasenes"
+  - name: "Branden Anasenes"
     affiliation: "Independent Researcher"
 date: "2025-10-23"
 version: "v1.0.0"
