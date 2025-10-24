@@ -35,7 +35,7 @@ header-left: "The Illusion of Choice"
 header-right: "Branden Anasenes"
 
 # Footer
-footer-left: "DOI: "
+footer-left: "DOI: 10.5281/zenodo.17430760"
 footer-center: "Project V.E.I.L. – v1.0.0"
 footer-right: "\\thepage"
 ---
