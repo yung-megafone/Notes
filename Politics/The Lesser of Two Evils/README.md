@@ -1,6 +1,6 @@
 ---
-title: "The Lesser of Two Evils: How Strategic Voting Sustains America’s Political Divide"
-subtitle: "How Strategic Voting Sustains America’s Political Divide"
+title: "The Illusion of Choice: How Engineered Division and the Economics of Fear Undermined the American Republic"
+subtitle: "A comprehensive analysis of how strategic voting, media manipulation, and psychological operations transformed civic participation into systemic compliance."
 author: "Branden Anasenes [ORCID: 0009-0005-1580-9026](https://orcid.org/0009-0005-1580-9026)"
 affiliation: "Independent Researcher"
 date: "2025-10-23"
@@ -30,6 +30,10 @@ colorlinks: true
 linkcolor: "DarkGray"
 urlcolor: "DarkGray"
 
+# Header
+header-left: "The Illusion of Choice"
+header-right: "Branden Anasenes"
+
 # Footer
 footer-left: "DOI: "
 footer-center: "Project V.E.I.L. – v1.0.0"
@@ -50,7 +54,7 @@ The intent of this work is **descriptive, not prescriptive.** It does not advoca
 
 ---
 
-# The Lesser of Two Evils: How Strategic Voting Sustains America’s Political Divide
+# The Lesser of Two Evils: How Engineered Division and the Economics of Fear Undermined the American Republic
 
 ## Introduction
 In every election cycle, Americans are told that their vote is their voice, that participating in democracy means choosing between two competing visions of the nation. For many, that “choice” no longer feels empowering; it feels like a trap.
