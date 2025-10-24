@@ -1,8 +1,8 @@
 ---
 title: "The Lesser of Two Evils: How Strategic Voting Sustains America’s Political Divide"
-author:
-  - name: "Branden Anasenes"
-    affiliation: "Independent Researcher"
+subtitle: "How Strategic Voting Sustains America’s Political Divide"
+author: "Branden Anasenes [ORCID: 0009-0005-1580-9026](https://orcid.org/0009-0005-1580-9026)"
+affiliation: "Independent Researcher"
 date: "2025-10-23"
 version: "v1.0.0"
 keywords:
@@ -12,17 +12,28 @@ keywords:
   - American politics
   - social psychology
 license: "CC BY-NC-SA 4.0"
-doi: "TBD"
 abstract: >
   This paper examines how the modern American political system sustains itself
   through engineered division, emotional manipulation, and digital control.
   Drawing on political psychology, media studies, and social behavior research,
   it argues that voters have been conditioned to choose between two dominant
-  parties that no longer serve representative democracy. From racial and
-  cultural polarization to algorithmic echo chambers, the mechanisms of division
-  are explored as tools of governance rather than accidents of ideology. The
-  essay concludes by urging a conscious rejection of performative partisanship
-  in favor of civic awareness and structural reform.
+  parties that no longer serve representative democracy.
+# Eisvogel title page
+titlepage: true
+titlepage-color: "1C1C1C"
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
+titlepage-rule-height: 2
+
+# Link colors: use a named color
+colorlinks: true
+linkcolor: "DarkGray"
+urlcolor: "DarkGray"
+
+# Footer
+footer-left: "DOI: "
+footer-center: "Project V.E.I.L. – v1.0.0"
+footer-right: "\\thepage"
 ---
 
 ### **Executive Summary**
